@@ -5,7 +5,7 @@
 ## Ссылка на скрины    
 https://github.com/Statyahoo/AI_assistant/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%201.png
 https://github.com/Statyahoo/AI_assistant/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%202.png
-скрин общения 1.png
+
 
 ## Описание
 Проект представляет собой ИИ-ассистента, созданного для автоматизации общения с пациентами в Telegram и управления записями на прием в семейную стоматологическую клинику.
